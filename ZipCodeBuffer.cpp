@@ -1,3 +1,7 @@
+/** @file ZipCodeBuffer.cpp
+ * @brief Implements CSV parsing, extrema accumulation, and table output.
+ * @details Function contracts are documented in ZipCodeBuffer.h.
+ */
 #include "ZipCodeBuffer.h"
 #include <iomanip>
 #include <sstream>

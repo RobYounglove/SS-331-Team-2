@@ -1,5 +1,13 @@
+/** @file main.cpp
+ * @brief Application entry point for the ZIP code group project.
+ */
 #include "ZipCodeBuffer.h"
 
+/** @brief Runs the ZIP code table application.
+ * @return 0 on success; 1 if the CSV cannot be opened.
+ * @details Reads us_postal_codes.csv from the working directory and prints
+ * one row per state. Numeric conversion exceptions are not caught here.
+ */
 int main(){
     string fileName = "us_postal_codes.csv";
 
