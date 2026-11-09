@@ -4,7 +4,7 @@ Group repository for reading CSV fles and file management
 
 ## AI Disclaimer
 
-I (Jacob Johnson) used AI to help write some of the comments in my source code. It made the comments clearer and easier to follow for my groupmates and anyone else reading my work.
+I (Jacob Johnson) used AI to help write some of the comments and method names in my source code. It made the comments clearer and easier to follow for my groupmates and anyone else reading my work.
 
 AI was very useful for this because it hardly halucinates dealing with comments and it's good at explaining how functions connect and interact with each other. The biggest issue is that is can get very verbose and say a whole lot for a small piece. I still reviewed every comment it generated to make sure it correctly described what the code does.
 
